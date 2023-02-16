@@ -1,3 +1,36 @@
-.Browser {
-    background-color: blanchedalmond;
+.BrowserBackground {
+    position: absolute;
+    width: 1100px;
+    left: 50%;
+    margin-left: -550px;
+    height: 5000px;
+    top: 100px;
+    background-color: rgb(156, 255, 227);
+}
+.Ddambban {
+    position: absolute;
+    width: 1100px;
+    left: 50%;
+    margin-left: -550px;
+    height: 5000px;
+    top: 100px;
+    background-color: rgb(255, 158, 61);
+}
+.NewJob {
+    position: absolute;
+    width: 1100px;
+    left: 50%;
+    margin-left: -550px;
+    height: 5000px;
+    top: 100px;
+    background-color: rgb(187, 61, 255);
+}
+.NewResume {
+    position: absolute;
+    width: 1100px;
+    left: 50%;
+    margin-left: -550px;
+    height: 5000px;
+    top: 100px;
+    background-color: rgb(77, 255, 61);
 }
